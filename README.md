@@ -8,7 +8,7 @@
 - [Getting Started](#getting_started)
 - [Prerequisite](#Prerequisite)
 - [Installation](#Installation)
-- [Installation](#Installation)
+- [Functionalities](#Functionalities)
 - [Further_Steps](#Further_Steps)
 
 
