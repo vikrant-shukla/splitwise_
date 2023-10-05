@@ -1,7 +1,5 @@
 # splitwise_
 
-# Product and Categories
-
 ## Table of Contents
 
 - [About](#about)
