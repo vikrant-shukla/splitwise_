@@ -52,7 +52,7 @@ python3 manage.py create_user
 
 
 ### Further_Steps
-There is database present in the project with every functionalities. so Avoid the migrate command is you want to use the same database else start the django,by running the below command in different terminal (ensure the env is activated and dependencies were installed).
+There is database present in the project with every functionalities. so Avoid the migrate command is you want to use the same database else start the django,by running the below command in terminal (ensure the env is activated and dependencies were installed).
 
 ```
 python3 manage.py migrate
